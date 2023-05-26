@@ -1,0 +1,7 @@
+C:\Users\Tunahan\source\repos\Ortalama\Ortalama\bin\Debug\Ortalama.exe.config
+C:\Users\Tunahan\source\repos\Ortalama\Ortalama\bin\Debug\Ortalama.exe
+C:\Users\Tunahan\source\repos\Ortalama\Ortalama\bin\Debug\Ortalama.pdb
+C:\Users\Tunahan\source\repos\Ortalama\Ortalama\obj\Debug\Ortalama.csproj.AssemblyReference.cache
+C:\Users\Tunahan\source\repos\Ortalama\Ortalama\obj\Debug\Ortalama.csproj.CoreCompileInputs.cache
+C:\Users\Tunahan\source\repos\Ortalama\Ortalama\obj\Debug\Ortalama.exe
+C:\Users\Tunahan\source\repos\Ortalama\Ortalama\obj\Debug\Ortalama.pdb
